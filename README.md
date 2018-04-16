@@ -1,3 +1,5 @@
+### Done with sample redux application
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
